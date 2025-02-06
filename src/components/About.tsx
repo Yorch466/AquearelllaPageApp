@@ -43,12 +43,12 @@ const About = () => {
             Sobre Nosotros
           </h2>
           <p className="mt-4 max-w-3xl mx-auto text-xl text-gray-500">
-            AQUARRELLA, una marca de Bata Bolivia, representa la fusión perfecta entre el estilo contemporáneo y la tradición en calzado. 
+            AQUARELLA, una marca de Bata Bolivia, representa la fusión perfecta entre el estilo contemporáneo y la tradición en calzado. 
             Con más de dos décadas de experiencia, nos hemos convertido en sinónimo de calidad y elegancia en el mercado boliviano.
           </p>
           <p className="mt-4 max-w-3xl mx-auto text-lg text-gray-500">
             Nuestra misión es proporcionar calzado que no solo luzca extraordinario, sino que también ofrezca la máxima comodidad. 
-            Cada par de zapatos AQUARRELLA es el resultado de un cuidadoso proceso de diseño y fabricación, 
+            Cada par de zapatos AQUARELLA es el resultado de un cuidadoso proceso de diseño y fabricación, 
             utilizando los mejores materiales y técnicas artesanales.
           </p>
         </div>
@@ -82,7 +82,7 @@ const About = () => {
 
         <div className="mt-16 text-center">
           <p className="text-gray-500 max-w-3xl mx-auto">
-            En AQUARRELLA, entendemos que cada paso es importante. Por eso, nos esforzamos constantemente 
+            En AQUARELLA, entendemos que cada paso es importante. Por eso, nos esforzamos constantemente 
             en innovar y mejorar nuestros productos, manteniendo siempre los más altos estándares de calidad 
             y servicio al cliente.
           </p>

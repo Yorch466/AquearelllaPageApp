@@ -79,7 +79,7 @@ const Contact = () => {
                     <Mail className="h-6 w-6 text-aqua" />
                   </div>
                   <div className="ml-3 text-base text-gray-500">
-                    <p>contacto@aquarrella.com</p>
+                    <p>contacto@aquarella.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">

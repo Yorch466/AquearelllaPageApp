@@ -19,7 +19,7 @@ const Hero = () => {
             <span className="block text-pink-light">en Cada Paso</span>
           </h1>
           <p className="mt-3 max-w-md mx-auto text-base text-white sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-            Descubre la nueva colección de AQUARRELLA, donde la moda se encuentra con el confort.
+            Descubre la nueva colección de AQUARELLA, donde la moda se encuentra con el confort.
           </p>
           <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
             <div className="rounded-md shadow">
