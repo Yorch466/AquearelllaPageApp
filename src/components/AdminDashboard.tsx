@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Users, Clock, MousePointer, MessageSquare } from 'lucide-react';
 
 const metrics = [

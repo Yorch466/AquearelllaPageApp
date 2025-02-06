@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Heart, Shield, Sparkles, Award, Truck, Clock } from 'lucide-react';
 
 const About = () => {
