@@ -132,7 +132,7 @@ const Products = () => {
                   alt={product.name}
                   className="object-cover object-center transform group-hover:scale-105 transition-transform duration-200"
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
+                {/* <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" /> */}
               </div>
               <div className="mt-4">
                 <h3 className="text-lg font-medium text-gray-900">{product.name}</h3>
